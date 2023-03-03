@@ -1,0 +1,9 @@
+{
+	"name": "raviintance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e347cb06-44c0-48f7-b5ae-1ba130462c0d",
+		"tenantId": "27d7b9c4-1dd0-4662-aea5-acfd3f1ce11a"
+	}
+}
